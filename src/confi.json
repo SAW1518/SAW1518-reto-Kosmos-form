@@ -1,0 +1,36 @@
+[
+  {
+    "component": "text",
+    "label": "First Namer",
+    "type": "text",
+    "_uid": "558e3c3c-77b6-11ec-90d6-0242acsdf120003"
+  },
+  {
+    "component": "text",
+    "label": "Last Name",
+    "type": "text",
+    "_uid": "558e3c3c-77b6-11ec-90d6-024sdf2ac1gfh20003"
+  },
+  {
+    "component": "select",
+    "label": "Opciones",
+    "type": "select",
+    "options": [
+      "one",
+      "Two",
+      "Three"
+    ],
+    "_uid": "558e3c3c-77b6-11ec-90d6-0sdfs242ac1gfh20003"
+  },
+  {
+    "component": "radio",
+    "label": "radioutton",
+    "type": "radio",
+    "options": [
+      "radio1",
+      "radio2",
+      "radio3"
+    ],
+    "_uid": "558e3c3c-77b6-11ec-90d6-02gh42acdfsd120003"
+  }
+]
