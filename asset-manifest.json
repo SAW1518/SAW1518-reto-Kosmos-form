@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SAW1518-reto-Kosmos-form/static/css/main.1e371017.css",
-    "main.js": "/SAW1518-reto-Kosmos-form/static/js/main.97554ace.js",
+    "main.js": "/SAW1518-reto-Kosmos-form/static/js/main.7915b22a.js",
     "static/js/787.2f59f497.chunk.js": "/SAW1518-reto-Kosmos-form/static/js/787.2f59f497.chunk.js",
     "index.html": "/SAW1518-reto-Kosmos-form/index.html",
     "main.1e371017.css.map": "/SAW1518-reto-Kosmos-form/static/css/main.1e371017.css.map",
-    "main.97554ace.js.map": "/SAW1518-reto-Kosmos-form/static/js/main.97554ace.js.map",
+    "main.7915b22a.js.map": "/SAW1518-reto-Kosmos-form/static/js/main.7915b22a.js.map",
     "787.2f59f497.chunk.js.map": "/SAW1518-reto-Kosmos-form/static/js/787.2f59f497.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e371017.css",
-    "static/js/main.97554ace.js"
+    "static/js/main.7915b22a.js"
   ]
 }
